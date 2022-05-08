@@ -1,0 +1,74 @@
+.fristSection img{
+   height:690px;
+   width:1349px;
+}
+.secondSection{
+   text-align: center;
+}
+.secondSection h2{
+   margin-top: 15px;
+}
+#emon img{
+   height: 200px;
+   width: 200px;
+   border-radius: 20px;
+   margin-left: 550px;
+}
+.team #emon{
+   margin-top: 50px;
+
+}
+#emon p{
+   text-align: center;
+}
+#nasim img{
+   height: 200px;
+   width: 200px;
+   border-radius: 20px;
+   margin-left: 550px;
+}
+.team #nasim{
+   margin-top: 50px;
+
+}
+#nasim p{
+   text-align: center;
+}
+#arpa img{
+   height: 200px;
+   width: 200px;
+   border-radius: 20px;
+   margin-left: 550px;
+}
+.team #arpa{
+   margin-top: 50px;
+
+}
+#arpa p{
+   text-align: center;
+}
+.footer_col ul li a {
+   text-align: center;
+   margin-top: 20px;
+}
+
+.footer {
+   background-color: rgb(39, 39, 39);
+}
+
+.footer_col {
+   width: 25%;
+   padding-bottom: 50px;
+}
+
+.part-6 {
+   text-align: center;
+}
+.content {
+   max-width: 1170px;
+   background-color: rgb(68, 68, 68);
+   margin: auto;
+   color: white;
+   display: flex;
+   padding: 20px;
+}
